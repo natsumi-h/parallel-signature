@@ -1,0 +1,12 @@
+[
+  {
+    "id": "sales-agreement",
+    "title": "Sales Agreement",
+    "file": "/files/legal-contract_with-form-fields.pdf",
+    "createdAt": "2026-10-01",
+    "signatureFields": {
+      "seller": "formSignature_p1_1",
+      "buyer": "formSignature_p1_2"
+    }
+  }
+]

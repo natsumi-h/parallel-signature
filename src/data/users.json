@@ -1,0 +1,18 @@
+[
+  {
+    "id": "seller",
+    "username": "seller",
+    "password": "seller",
+    "name": "Toby McDermott(seller)",
+    "company": "ABC WIDGETS INC.",
+    "role": "seller"
+  },
+  {
+    "id": "buyer",
+    "username": "buyer",
+    "password": "buyer",
+    "name": "Jennifer Davies(buyer)",
+    "company": "TRANSWORLD BANKING INC.",
+    "role": "buyer"
+  }
+]
